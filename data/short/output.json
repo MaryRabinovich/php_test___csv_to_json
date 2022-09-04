@@ -1,0 +1,42 @@
+[
+    {
+        "itemName": "Total",
+        "parent": null,
+        "children": [
+            {
+                "itemName": "ПВЛ",
+                "parent": "Total",
+                "children": [
+                    {
+                        "itemName": "Стандарт.#1",
+                        "parent": "ПВЛ",
+                        "children": [
+                            {
+                                "itemName": "Тележка Б25.#2",
+                                "parent": "Стандарт.#1",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "itemName": "ХОП 101",
+                "parent": "Total",
+                "children": [
+                    {
+                        "itemName": "Стандарт.#101",
+                        "parent": "ХОП 101",
+                        "children": [
+                            {
+                                "itemName": "Тележка Б25.#205",
+                                "parent": "Стандарт.#101",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

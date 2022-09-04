@@ -1,0 +1,17 @@
+{
+    "name": "maryrabinovich/gentree",
+    "description": "Generate json tree from csv file",
+    "authors": [
+        {
+            "name": "MaryRabinovich",
+            "email": "mary.rabinovich@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}

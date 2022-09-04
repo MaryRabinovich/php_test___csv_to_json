@@ -1,0 +1,194 @@
+[
+    {
+        "itemName": "Total",
+        "parent": null,
+        "children": [
+            {
+                "itemName": "ПВЛ",
+                "parent": "Total",
+                "children": [
+                    {
+                        "itemName": "Стандарт.#1",
+                        "parent": "ПВЛ",
+                        "children": [
+                            {
+                                "itemName": "Тележка Б25.#2",
+                                "parent": "Стандарт.#1",
+                                "children": [
+                                    {
+                                        "itemName": "Стандарт.#5",
+                                        "parent": "Тележка Б25.#2",
+                                        "children": [
+                                            {
+                                                "itemName": "РБ ЦДЛР.9855.00.02.000.#17",
+                                                "parent": "Стандарт.#5",
+                                                "children": []
+                                            },
+                                            {
+                                                "itemName": "БН ЦДЛР.9855.00.01.000.#18",
+                                                "parent": "Стандарт.#5",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "itemName": "Доп1.#108",
+                                        "parent": "Тележка Б25.#2",
+                                        "children": [
+                                            {
+                                                "itemName": "РБ 4536-07.00.02.000.#226",
+                                                "parent": "Доп1.#108",
+                                                "children": []
+                                            },
+                                            {
+                                                "itemName": "БН 4701-09.00.01.000.#227",
+                                                "parent": "Доп1.#108",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "itemName": "Доп2.#6",
+                                        "parent": "Тележка Б25.#2",
+                                        "children": [
+                                            {
+                                                "itemName": "РБ 4536-07.00.02.000.#26",
+                                                "parent": "Доп2.#6",
+                                                "children": []
+                                            },
+                                            {
+                                                "itemName": "БН 4701-09.00.01.000.#27",
+                                                "parent": "Доп2.#6",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "itemName": "ХОП 101",
+                "parent": "Total",
+                "children": [
+                    {
+                        "itemName": "Стандарт.#101",
+                        "parent": "ХОП 101",
+                        "children": [
+                            {
+                                "itemName": "Тележка Б25.#205",
+                                "parent": "Стандарт.#101",
+                                "children": [
+                                    {
+                                        "itemName": "Стандарт.#5",
+                                        "parent": "Тележка Б25.#205",
+                                        "children": [
+                                            {
+                                                "itemName": "РБ ЦДЛР.9855.00.02.000.#17",
+                                                "parent": "Стандарт.#5",
+                                                "children": []
+                                            },
+                                            {
+                                                "itemName": "БН ЦДЛР.9855.00.01.000.#18",
+                                                "parent": "Стандарт.#5",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "itemName": "Доп1.#108",
+                                        "parent": "Тележка Б25.#205",
+                                        "children": [
+                                            {
+                                                "itemName": "РБ 4536-07.00.02.000.#226",
+                                                "parent": "Доп1.#108",
+                                                "children": []
+                                            },
+                                            {
+                                                "itemName": "БН 4701-09.00.01.000.#227",
+                                                "parent": "Доп1.#108",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "itemName": "Доп2.#6",
+                                        "parent": "Тележка Б25.#205",
+                                        "children": [
+                                            {
+                                                "itemName": "РБ 4536-07.00.02.000.#26",
+                                                "parent": "Доп2.#6",
+                                                "children": []
+                                            },
+                                            {
+                                                "itemName": "БН 4701-09.00.01.000.#27",
+                                                "parent": "Доп2.#6",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "itemName": "Тележка Б25",
+                "parent": "Total",
+                "children": [
+                    {
+                        "itemName": "Стандарт.#5",
+                        "parent": "Тележка Б25",
+                        "children": [
+                            {
+                                "itemName": "РБ ЦДЛР.9855.00.02.000.#17",
+                                "parent": "Стандарт.#5",
+                                "children": []
+                            },
+                            {
+                                "itemName": "БН ЦДЛР.9855.00.01.000.#18",
+                                "parent": "Стандарт.#5",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "itemName": "Доп1.#108",
+                        "parent": "Тележка Б25",
+                        "children": [
+                            {
+                                "itemName": "РБ 4536-07.00.02.000.#226",
+                                "parent": "Доп1.#108",
+                                "children": []
+                            },
+                            {
+                                "itemName": "БН 4701-09.00.01.000.#227",
+                                "parent": "Доп1.#108",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "itemName": "Доп2.#6",
+                        "parent": "Тележка Б25",
+                        "children": [
+                            {
+                                "itemName": "РБ 4536-07.00.02.000.#26",
+                                "parent": "Доп2.#6",
+                                "children": []
+                            },
+                            {
+                                "itemName": "БН 4701-09.00.01.000.#27",
+                                "parent": "Доп2.#6",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
