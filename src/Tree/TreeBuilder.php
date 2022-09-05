@@ -24,7 +24,6 @@ class TreeBuilder
     private static function buildHashesAndBasicTreeFromReader(): void
     {
         while ($next = self::$reader->next()) {
-
             extract($next);
 
             $node = [

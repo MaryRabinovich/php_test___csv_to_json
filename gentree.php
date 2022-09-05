@@ -12,6 +12,7 @@ require 'vendor/autoload.php';
 // $base = __DIR__ . '/data/short/';
 // $base = __DIR__ . '/data/medium/';
 $base = __DIR__ . '/data/full/';
+
 $pathFrom = $base . 'input.csv';
 $pathTo = $base . 'output.json';
 

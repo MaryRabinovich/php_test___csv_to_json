@@ -26,8 +26,9 @@ class CSVReader implements ReaderContract
     private function formatValues(array $array)
     {
         return array_map(function ($string) {
+            // $string = str_replace("\n", '', $string);
+            $string = str_replace(PHP_EOL, '', $string);
             $string = str_replace('"', '', $string);
-            $string = str_replace("\n", '', $string);
             return $string;
         }, $array);
     }
