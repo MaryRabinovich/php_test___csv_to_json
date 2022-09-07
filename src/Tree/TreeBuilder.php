@@ -59,7 +59,6 @@ class TreeBuilder
             if (!$relation) {
                 continue;
             }
-
             if (!array_key_exists($relation, Tree::$relationKeyedRefHash)) {
                 Tree::$relationKeyedRefHash[$relation] = [];
             }
